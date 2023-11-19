@@ -51,7 +51,7 @@ const PageHeader = () => {
         </Button>
       </form>
       <div
-        className={` flex-shrink-0 md:gap-2 ${
+        className={`flex-shrink-0 md:gap-2 ${
           showFullWidthSearch ? 'hidden' : 'flex'
         }`}
       >
